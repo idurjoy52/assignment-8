@@ -1,0 +1,29 @@
+.navbar-area {
+    background-color: #30336b;
+}
+.logo-area {
+    width: 60px;
+    height: 60px;
+}
+.logo-area img {
+    width: 100%;
+    height: auto;
+}
+.menu-area ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 20px;
+}
+.menu-area ul li {
+    display: inline;
+
+}
+.menu-area ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: blanchedalmond;
+}
+.menu-area ul li:hover a {
+    background-color:#130f40; 
+}
