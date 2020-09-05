@@ -49,7 +49,7 @@ const DetailedPost = () => {
         <div  className={classes.root}>
             <Grid container spacing={3}>
                 <Grid item xs={12}>
-                    <h1 style={{textAlign:'center'}}>Selcted Post:</h1>
+                    <h1 style={{textAlign:'center'}}>Selected Post:</h1>
                     <Paper className={classes.paper}>
                         <h1>Post Title: <small>{title}</small></h1>
                         <p>Main Post: <small>{body}</small></p>
